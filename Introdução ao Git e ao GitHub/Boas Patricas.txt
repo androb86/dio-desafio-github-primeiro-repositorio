@@ -1,0 +1,2 @@
+Link Sobre Boas Praticas no Git/GitHub:https://blog.locaweb.com.br/temas/codigo-aberto/6-boas-praticas-de-git/
+As Boas Praticas traz uma qualidade melhor.
